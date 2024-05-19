@@ -20,7 +20,7 @@
 </div>
  <br>
  
-## Spotify Playing 🎧
+## ₊˚🖇️✩ Spotify Playing ₊˚🎧⊹♡
 
 
 
@@ -28,7 +28,7 @@
  
 <br>
  
-### Minhas Redes Sociais! 
+### Minhas Redes Sociais! ✧📎⋆ ˚｡⋆
  
 <div> 
   
