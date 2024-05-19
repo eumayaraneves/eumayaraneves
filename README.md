@@ -1,4 +1,11 @@
-## Bem-vindo(a) ao meu perfil! ʕ•́ᴥ•̀ʔっ
+## Bem-vindo(a) ao meu perfil! ʕ•́ᴥ•̀ʔっ♡
+
+- ✦ Desenvolvedora FrontEnd em formação;
+- ✦ Apaixonada por tecnologia;
+- ✦ São Lourenço, MG;
+
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ??
 
  <div>
    <a href="https://github.com/eumayaraneves/">
@@ -11,6 +18,13 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ <br>
+ 
+## Spotify Playing 🎧
+
+
+
+[<img src="https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10 px;" />](https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link)
  
 <br>
  
