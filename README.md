@@ -24,7 +24,7 @@
 
 
 
-[<img src="https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10 px;" />](https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link)
+[<img src="https://icons8.com.br/icon/49479/spotify"  alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10 px;" />](https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link)
  
 <br>
  
