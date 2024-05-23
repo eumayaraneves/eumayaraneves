@@ -1,4 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&duration=2500&pause=2500&color=EEA5F7&background=0D1117&=true&multiline=true&random=false&width=435&height=85&lines=Ol%C3%A1%2C+mundo!;)](https://git.io/typing-svg)
+
+
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&duration=2500&pause=2500&color=E94D5F&background=0D1117&=true&multiline=true&random=false&width=435&height=85&lines=Ol%C3%A1%2C+mundo!;)](https://git.io/typing-svg)
 
 ## Bem-vindo(a) ao meu perfil! ʕ•́ᴥ•̀ʔっ♡
 
@@ -35,12 +38,12 @@
 
 ### ˚｡⋆ Conecte-se comigo! ⋆ ˚｡⋆
 
-[![Portifólio](https://img.shields.io/badge/PORTIFÓLIO-000?style=for-the-badge&logo=&logoColor=0E76A8)](https://github.com/eumayaraneves?tab=repositories) 
+[![Portifólio](https://img.shields.io/badge/PORTIFÓLIO-000?style=for-the-badge&logo=&logoColor=30A3DC)](https://github.com/eumayaraneves?tab=repositories) 
 [![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge)](https://www.dio.me/users/neves_maya22)
-[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:contatomayarasneves@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/eumayaraneves/)
+[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC)](mailto:contatomayarasneves@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/eumayaraneves/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/eumayaraneves/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.discord.com/eumayaraneves/)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=E94D5F)](https://www.discord.com/eumayaraneves/)
 
 
 
@@ -48,11 +51,12 @@
 
 
 
-[<img src="https://icons8.com.br/icon/49479/spotify"  alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10 px;" />](https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link)
+
+[![Spotify](https://img.shields.io/badge/-spotify-000?style=for-the-badge&logo=spotify&logoColor=0000)](https://open.spotify.com/track/5NxxixRIBePmP5iNl9lPOt?si=9JBfX7FJQYqy52OSkuXzLg&utm_source=copy-link)
 
 <div align="center" style="text-align: center;">
  
-[![](https://visitcount.itsvg.in/api?id=AugstDev&icon=0&color=30A3DC)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AugstDev&icon=0&color=E94D5F)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   </a>
