@@ -5,7 +5,7 @@
 
 ## Bem-vindo(a) ao meu perfil! ʕ•́ᴥ•̀ʔっ♡
 
-- ✦ Olá Mundo, eu sou a Mayara, ou May pros mais íntimos. Sou uma garota apaixonada por Tecnologia e uma entusiasta da área digital, movida pelo desejo de sempre adquirir conhecimentos. Atualmente, estudo Desenvolvimento Front End na Dev Quest (Dev em Dobro) e Backend com Java na DIO (Digital Innovation One), escolas que ensinam a programar e te preparam para o mercado de trabalho. Já estudei em áreas de Design e Marketing, e creio que a Programação irá complementar e expandir meus conhecimentos. Estou sempre buscando conhecimento e aprendizado e à transformar desafios em oportunidade de progredir e inovar.
+- ✦ Olá Mundo, eu sou a Mayara, ou May pros mais íntimos. Sou uma garota apaixonada por Tecnologia e uma entusiasta da área digital, movida pelo desejo de sempre adquirir conhecimentos. Atualmente, estudo Desenvolvimento Front End na Dev Quest (Dev em Dobro) e Backend com Java na DIO (Digital Innovation One), escolas que ensinam a programar e te preparam para o mercado de trabalho. Já estudei em áreas de Design e Marketing, e creio que a Programação irá complementar e expandir meus conhecimentos. Estou sempre buscando conhecimento, aprendizado e à transformar desafios em oportunidade de progredir e inovar.
 
   
 
