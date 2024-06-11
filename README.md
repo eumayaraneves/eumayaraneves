@@ -56,7 +56,8 @@
 
 <div align="center" style="text-align: center;">
  
-[![](https://visitcount.itsvg.in/api?id=AugstDev&icon=0&color=E94D5F)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=eumayaraneves&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   </a>
