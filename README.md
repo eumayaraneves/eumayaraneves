@@ -1,7 +1,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&duration=2500&pause=2500&color=E94D5F&background=0D1117&=true&multiline=true&random=false&width=435&height=85&lines=Ol%C3%A1%2C+mundo!;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&duration=2500&pause=2500&color=E94D5F&background=00000000&=true&multiline=true&random=false&width=435&height=85&lines=Ol%C3%A1%2C+mundo!;)](https://git.io/typing-svg)
 
 ## Bem-vindo(a) ao meu perfil! ʕ•́ᴥ•̀ʔっ♡ <br><br>
 
