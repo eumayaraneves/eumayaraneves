@@ -17,13 +17,13 @@
 
 ### Habilidades ˚｡⋆ <br>
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=0E76A8)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)<br>
-![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) <br><br>
+![HTML5](https://img.shields.io/badge/HTML-E94D5F?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-30A3DC?style=for-the-badge&logo=css3&logoColor=0E76A8)
+![JavaScript](https://img.shields.io/badge/JavaScript-E94D5F?style=for-the-badge&logo=javascript)<br>
+![Vscode](https://img.shields.io/badge/Vscode-30A3DC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-E94D5F?style=for-the-badge&logo=git&logoColor=30A3DC)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=E94D5F)](https://docs.github.com/)
+![Markdown](https://img.shields.io/badge/Markdown-E94D5F?style=for-the-badge&logo=markdown) <br><br>
 
 
 
