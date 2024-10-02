@@ -10,9 +10,9 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Que tal algumas estatísticas?? ˚｡⋆ <br>
 
     
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alan-G-S-Oliveira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&&hide_title=True) <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alan-G-S-Oliveira&theme=00000000&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=30A3DC&&hide_title=True) <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alan-G-S-Oliveira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&&hide_title=True) <br><br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alan-G-S-Oliveira&bg_color=00000000&border_color=30A3DC&title_color=E94D5F&text_color=30A3DC&&hide_title=True) <br><br>
 
 
 ### Habilidades ˚｡⋆ <br>
@@ -30,14 +30,14 @@
 ### Meus Desafios de Projeto DIO ˚｡⋆ <br>
 
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source) <br><br>
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=30A3DC)](https://github.com/elidianaandrade/dio-lab-open-source) <br><br>
 
 ### Conecte-se comigo! ⋆ ˚｡⋆ <br>
 
-[![Portifólio](https://img.shields.io/badge/PORTIFÓLIO-000?style=for-the-badge&logo=&logoColor=30A3DC)](https://github.com/eumayaraneves?tab=repositories) 
-[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=30A3DC)](mailto:contatomayarasneves@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/eumayaraneves/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/eumayaraneves/) <br><br>
+[![Portifólio](https://img.shields.io/badge/PORTIFÓLIO-E94D5F?style=for-the-badge&logo=&logoColor=00000000)](https://github.com/eumayaraneves?tab=repositories) 
+[![Gmail](https://img.shields.io/badge/-Email-30A3DC?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:contatomayarasneves@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E94D5F?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/eumayaraneves/)
+[![Instagram](https://img.shields.io/badge/-Instagram-30A3DC?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/eumayaraneves/) <br><br>
 
 
 
