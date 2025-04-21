@@ -5,7 +5,9 @@
 
 ## Bem-vindo(a) ao meu perfil! ʕ•́ᴥ•̀ʔっ♡ <br><br>
 
-- ✦ Olá Mundo, eu sou a Mayara. Sou apaixonada por Tecnologia e uma entusiasta da área digital, movida pelo desejo de sempre adquirir conhecimentos. Atualmente, estudo Desenvolvimento Front End na Dev Quest (Dev em Dobro) e Backend com Java na DIO (Digital Innovation One). Já estudei em áreas de Design e Marketing, e creio que a Programação irá complementar e expandir meus conhecimentos. Estou sempre buscando conhecimento, aprendizado e à transformar desafios em oportunidade de progredir e inovar.
+- ✦ Olá Mundo, eu sou a Mayara. Eu sou a Mayara Neves, apaixonada por tecnologia e entusiasta da área digital, sempre movida pela vontade de aprender e evoluir. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me dedicando aos estudos de Desenvolvimento Front-End na DevQuest (Dev em Dobro) e Back-End com Java na DIO (Digital Innovation One).
+
+Minha trajetória também passa pelo Design Audiovisual e Marketing Digital, áreas que me deram visão criativa e estratégica para complementar meu caminho na programação. Acredito que a tecnologia, quando unida à criatividade e ao bom relacionamento com as pessoas, pode transformar ideias em soluções incríveis.
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Que tal algumas estatísticas?? ˚｡⋆ <br>
 
