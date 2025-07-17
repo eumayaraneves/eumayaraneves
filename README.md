@@ -1,13 +1,9 @@
 
 <div style="display: flex; align-items: center; background: transparent;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t0bnprY2owODlld2M0NjZuMjZ3a3A0czRuOWw2ZXdmZnA3bXVpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fQ77KoM6GPYzTd8MSo/giphy.gif" alt="Fun GIF" width="120" style="background: transparent; margin-right: 10px;" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&duration=2500&pause=2500&color=022439&background=00000000&multiline=true&random=false&width=435&height=85&lines=Ol%C3%A1%2C+mundo!" alt="Typing SVG" />
   </a>
 </div>
-
-<br><br>
-
 
 - ✦ Olá, eu sou a Mayara. Desenvolvedora em formação, apaixonada por tecnologia e movida pela vontade de transformar aprendizado em soluções criativas e funcionais.
 Tenho focado meus estudos em Desenvolvimento Front-End (HTML, CSS, JavaScript) e Back-End com Java, sempre buscando aplicar o que aprendo em projetos reais e desafios práticos.
