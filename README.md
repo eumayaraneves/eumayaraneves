@@ -1,12 +1,11 @@
 
 <div style="display: flex; align-items: center; background: transparent;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t0bnprY2owODlld2M0NjZuMjZ3a3A0czRuOWw2ZXdmZnA3bXVpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fQ77KoM6GPYzTd8MSo/giphy.gif" alt="Fun GIF" width="120" style="background: transparent; margin-right: 10px;" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=26&duration=2500&pause=2500&color=022439&background=00000000&multiline=true&random=false&width=435&height=85&lines=Ol%C3%A1%2C+mundo!" alt="Typing SVG" />
   </a>
 </div>
 
-<br><br>
+<br>
 
 
 - ✦ Olá, eu sou a Mayara. Desenvolvedora em formação, apaixonada por tecnologia e movida pela vontade de transformar aprendizado em soluções criativas e funcionais.
@@ -20,6 +19,7 @@ Tenho focado meus estudos em Desenvolvimento Front-End (HTML, CSS, JavaScript) e
 - 🌍 Explorando novas tecnologias e unindo criatividade, programação e estratégia para desenvolver soluções digitais
 - 🖥️ Experiência em atendimento ao cliente, consultoria e vendas com habilidades que fortalecem meu olhar para a experiência do usuário
 - ❤️ Apaixonada por compartilhar conhecimento, aprender em comunidade e transformar desafios em oportunidades
+ <br><br>
 
 <table style="border: none;">
   <tr>
@@ -41,16 +41,18 @@ Tenho focado meus estudos em Desenvolvimento Front-End (HTML, CSS, JavaScript) e
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ⭐ Que tal algumas estatísticas?? ˚｡⋆ <br>
 
     
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumayaraneves&theme=00000000&bg_color=00000000&border_color=022439&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=022439&&hide_title=True) <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumayaraneves&theme=00000000&bg_color=00000000&border_color=022439&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=022439&&hide_title=True) <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumayaraneves&layout=compact&langs_count=6&theme=00000000&border_color=022439&show_icons=true&icon_color=E94D5F&title_color=E94D5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumayaraneves&layout=compact&langs_count=6&theme=00000000&border_color=022439&show_icons=true&icon_color=E94D5F&title_color=E94D5"/><br><br>
 
 
 ### Tecnologias ˚｡⋆ <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,bootstrap,pr)](https://skillicons.dev)
+<br><br>
+
 
 
 
@@ -61,7 +63,7 @@ Tenho focado meus estudos em Desenvolvimento Front-End (HTML, CSS, JavaScript) e
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-022439?style=for-the-badge&logo=linkedin&logoColor=linkedin)](https://www.linkedin.com/in/eumayaraneves/)
 [![Instagram](https://img.shields.io/badge/-Instagram-022439?style=for-the-badge&logo=instagram&logoColor=Instagram)](https://www.instagram.com/eumayaraneves/) <br><br>
 
-<br clear="both">
+
 
 
 ###
