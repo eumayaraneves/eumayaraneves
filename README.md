@@ -21,7 +21,7 @@ Tenho focado meus estudos em Desenvolvimento Front-End (HTML, CSS, JavaScript) e
   <tr>
     <td style="border: none; vertical-align: top;">
       <p>
-        - Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFATECIE</strong>, atualmente no <strong>2º período</strong>, e sou apaixonada por tecnologia e inovação.<br><br>
+        - Sou graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFATECIE</strong>, atualmente no <strong>3º período</strong>, e sou apaixonada por tecnologia e inovação.<br><br>
         Tenho focado meus estudos em <strong>Desenvolvimento Front-End</strong> com <strong>HTML, CSS e JavaScript</strong>, além de <strong>Back-End com Java</strong>, sempre buscando aplicar esses conhecimentos em projetos práticos.<br><br>
         Minha trajetória inclui experiências em <strong>Design Audiovisual</strong> e <strong>Marketing Digital</strong>, áreas que ampliaram minha criatividade e visão estratégica.
       </p>
